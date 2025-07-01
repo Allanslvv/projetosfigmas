@@ -1,4 +1,4 @@
-# Projetos Interativos para Equipamento REPIDCLASS Facial e software mobile RHID
+# Projetos Interativos para o equipamento REPIDCLASS Facial e software mobile RHID
 
 🎯 Objetivos do projeto:
 
